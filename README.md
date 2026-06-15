@@ -124,7 +124,7 @@ void AgendarTroca()
 ```
 
 **Print da chuva no jogo:**
-![Sistema de chuva](Imagens/chuva.png)
+
 
 ---
 
@@ -178,7 +178,7 @@ void TentarDanificar(Collider other)
 ```
 
 **Print das Sentinelas perseguindo o jogador:**
-![IA de inimigos](Imagens/inimigos.png)
+
 
 ---
 
@@ -237,8 +237,3 @@ NEON-STORM/
 
 ---
 
-## 🎵 Créditos / assets
-
-- Código C#: autoria própria.
-- Música e efeitos sonoros: [cite aqui a fonte da sua trilha — ex.: freesound.org, incompetech.com, etc.].
-- Modelos: primitivas do Unity (esferas, cubos, plano) com materiais *emissive* para o visual neon.
