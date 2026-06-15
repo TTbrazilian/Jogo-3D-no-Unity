@@ -1,6 +1,4 @@
-
-
-![NEON STORM](Imagens/banner.png)
+<img width="1280" height="420" alt="banner" src="https://github.com/user-attachments/assets/fb949d1e-00e8-40f2-8779-34fd5a2127f1" />
 
 # NEON STORM
 
@@ -46,7 +44,13 @@ O jogo é jogado pelo **teclado e mouse**:
 
 ## ▶️ Vídeo de gameplay
 
-📺 **Link do vídeo (máx. 5 min):** [COLE AQUI O LINK DO YOUTUBE]
+📺 **Link do vídeo:** https://youtu.be/W_P3K7Eq8UE
+
+<!-- Para embedar a miniatura clicável, troque VIDEO_ID pelo id do seu video do YouTube:
+[![Gameplay NEON STORM](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+-->
+
+---
 
 ## 🖼️ Capturas de tela
 
@@ -120,7 +124,7 @@ void AgendarTroca()
 ```
 
 **Print da chuva no jogo:**
-![Sistema de chuva](Imagens/chuva.png)
+
 
 ---
 
@@ -174,7 +178,7 @@ void TentarDanificar(Collider other)
 ```
 
 **Print das Sentinelas perseguindo o jogador:**
-![IA de inimigos](Imagens/inimigos.png)
+
 
 ---
 
@@ -233,8 +237,3 @@ NEON-STORM/
 
 ---
 
-## 🎵 Créditos / assets
-
-- Código C#: autoria própria.
-- Música e efeitos sonoros: [cite aqui a fonte da sua trilha — ex.: freesound.org, incompetech.com, etc.].
-- Modelos: primitivas do Unity (esferas, cubos, plano) com materiais *emissive* para o visual neon.
