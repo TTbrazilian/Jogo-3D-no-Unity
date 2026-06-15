@@ -55,13 +55,13 @@ O jogo é jogado pelo **teclado e mouse**:
 ## 🖼️ Capturas de tela
 
 ### Menu principal
-![Menu do jogo]()
+![Menu do jogo](Imagens/menu.png)
 
 ### Gameplay — arena e coleta de energia
-![Gameplay 1](Jogo-3D-no-Unity/NEON-STORM/neon-storm/Imagens/gameplay1.png)
+![Gameplay 1](Imagens/gameplay1.png)
 
 ### Gameplay — perseguição das Sentinelas
-![Gameplay 2](Jogo-3D-no-Unity/NEON-STORM/neon-storm/Imagens/gameplay2.png)
+![Gameplay 2](Imagens/gameplay2.png)
 
 ---
 
@@ -125,6 +125,7 @@ void AgendarTroca()
 
 **Print da chuva no jogo:**
 
+![Chuva no jogo](Imagens/chuva.png)
 
 ---
 
@@ -179,6 +180,7 @@ void TentarDanificar(Collider other)
 
 **Print das Sentinelas perseguindo o jogador:**
 
+![Sentinelas perseguindo o jogador](Imagens/inimigos.png)
 
 ---
 
