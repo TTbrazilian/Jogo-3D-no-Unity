@@ -48,12 +48,6 @@ O jogo é jogado pelo **teclado e mouse**:
 
 📺 **Link do vídeo (máx. 5 min):** [COLE AQUI O LINK DO YOUTUBE]
 
-<!-- Para embedar a miniatura clicável, troque VIDEO_ID pelo id do seu video do YouTube:
-[![Gameplay NEON STORM](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
--->
-
----
-
 ## 🖼️ Capturas de tela
 
 ### Menu principal
