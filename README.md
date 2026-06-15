@@ -1,6 +1,4 @@
-
-
-![NEON STORM](Imagens/banner.png)
+<img width="1280" height="420" alt="banner" src="https://github.com/user-attachments/assets/fb949d1e-00e8-40f2-8779-34fd5a2127f1" />
 
 # NEON STORM
 
