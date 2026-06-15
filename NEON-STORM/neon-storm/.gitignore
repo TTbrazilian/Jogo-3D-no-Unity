@@ -1,0 +1,54 @@
+# ----------------------------------------------------------------------------
+# .gitignore especifico para projetos Unity
+# Mantem o repositorio leve, versionando apenas o necessario (Assets, ProjectSettings, Packages)
+# ----------------------------------------------------------------------------
+
+# Pastas geradas pelo Unity (nunca devem ir para o Git)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# Pastas de assets importados / recordings
+/[Aa]ssets/[Aa]ssetStoreTools*
+/[Aa]ssets/[Pp]lugins/[Ee]ditor/JetBrains*
+/[Rr]ecordings/
+
+# Arquivos de solucao/projeto de IDEs (gerados automaticamente)
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+ExportedObj/
+
+# Crashlytics / Unity
+crashlytics-build.properties
+/[Aa]ssets/[Ss]treamingAssets/aas.meta
+/[Aa]ssets/[Ss]treamingAssets/HotUpdate/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
